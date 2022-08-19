@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Raj Kushwaha also known as Rahul K Raj</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-- 🔭 I’m Founder of [Rahulya InfoTech](https://rahulyainfotech.com/)
+- 🔭 I’m Creator of [Rahulya InfoTech](https://rahulyainfotech.com/)
 
 - 🌱 I’m currently learning **Ionic Framework**
 
